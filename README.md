@@ -1,0 +1,1 @@
+# solidity-just-simple-test
